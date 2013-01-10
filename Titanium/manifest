@@ -1,8 +1,8 @@
-#appname: BustinOut
-#publisher: fusion94
-#url: http://appcelerator.com
-#image: appicon.png
-#appid: com.appcelerator.bustinout
-#desc: undefined
-#type: mobile
-#guid: 9594925c-b0da-4e1c-98c8-6908363135c2
+#appname:BustinOut
+#publisher:fusion94
+#url:http://fusion94.org
+#image:appicon.png
+#appid:org.fusion94.bustinout
+#desc:not specified
+#type:mobile
+#guid:9594925c-b0da-4e1c-98c8-6908363135c2

@@ -8,11 +8,11 @@
         <target device="ipad">false</target>
         <target device="android">true</target>
     </deployment-targets>
-    <id>com.appcelerator.bustinout</id>
+    <id>org.fusion94.bustinout</id>
     <name>BustinOut</name>
     <version>1.0</version>
     <publisher>fusion94</publisher>
-    <url>http://appcelerator.com</url>
+    <url>http://fusion94.org</url>
     <description>not specified</description>
     <copyright>2011 by fusion94</copyright>
     <icon>appicon.png</icon>
