@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/tguntharp/Desktop/BustinOut/build/iphone/Classes/TiUICanvasView.m
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/Classes/TiUICanvasView.m

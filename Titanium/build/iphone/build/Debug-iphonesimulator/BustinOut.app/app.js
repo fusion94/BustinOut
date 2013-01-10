@@ -1,1 +1,1 @@
-/Users/tguntharp/Desktop/BustinOut/Resources/app.js
+/Users/tguntharp/Desktop/BustinOut/Titanium/Resources/app.js

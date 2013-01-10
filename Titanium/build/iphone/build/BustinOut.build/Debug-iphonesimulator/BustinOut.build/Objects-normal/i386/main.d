@@ -1,1 +1,2 @@
-dependencies: /Users/tguntharp/Desktop/BustinOut/build/iphone/main.m
+dependencies: \
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/main.m

@@ -8,9 +8,9 @@
 #define STRING(x) _QUOTEME(x)
 
 NSString * const TI_APPLICATION_DEPLOYTYPE = @"development";
-NSString * const TI_APPLICATION_ID = @"com.appcelerator.bustinout";
+NSString * const TI_APPLICATION_ID = @"org.fusion94.bustinout";
 NSString * const TI_APPLICATION_PUBLISHER = @"fusion94";
-NSString * const TI_APPLICATION_URL = @"http://appcelerator.com";
+NSString * const TI_APPLICATION_URL = @"http://fusion94.org";
 NSString * const TI_APPLICATION_NAME = @"BustinOut";
 NSString * const TI_APPLICATION_VERSION = @"1.0";
 NSString * const TI_APPLICATION_DESCRIPTION = @"not specified";

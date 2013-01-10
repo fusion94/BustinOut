@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tguntharp/Desktop/BustinOut/build/iphone/Classes/AsyncSocket.m \
-  /Users/tguntharp/Desktop/BustinOut/build/iphone/Classes/AsyncSocket.h
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/Classes/AsyncSocket.m \
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/Classes/AsyncSocket.h

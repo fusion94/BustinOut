@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tguntharp/Desktop/BustinOut/build/iphone/Classes/ApplicationRouting.m \
-  /Users/tguntharp/Desktop/BustinOut/build/iphone/Classes/ApplicationRouting.h
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/Classes/ApplicationRouting.m \
+  /Users/tguntharp/Desktop/BustinOut/Titanium/build/iphone/Classes/ApplicationRouting.h
