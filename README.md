@@ -18,4 +18,10 @@ This is a mobile game written for a variety of different devices using a variety
 
 The breakdown of this repo is such:
 
-__Titanium__ --> Appcelerator Titanium Source Code
+__Titanium__ 
+
+Appcelerator Titanium Source Code for iOS, Android and MobileWeb.
+
+__PhoneGap__ 
+
+PhoneGap Source Code for iOS.
