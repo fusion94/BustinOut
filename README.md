@@ -12,6 +12,9 @@ top and side walls of the screen. When a brick is hit, the ball bounces away and
 loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable 
 paddle to bounce the ball upward, keeping it in play.
 
+### Demo
+There's a HTML5 version of it online over at: http://fusion94.org/BustinOut/
+
 ### Breakdown
 
 This is a mobile game written for a variety of different devices using a variety of different frameworks.
