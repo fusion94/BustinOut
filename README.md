@@ -1,7 +1,7 @@
 BustinOut
 =========
 
-### Introduction
+### Description
 BustinOut is is a clone of the game Breakout which is an arcade game developed by Atari, Inc and introduced on May 13, 
 1976. It was conceptualized by Nolan Bushnell and Steve Bristow, and influenced by the 1972 arcade game Pong, also by 
 Atari. The game was ported to video game consoles and upgraded to video games such as Super Breakout. In addition, 
@@ -15,8 +15,7 @@ paddle to bounce the ball upward, keeping it in play.
 ### Demo
 There's a HTML5 version of it online over at: http://fusion94.org/BustinOut/
 
-### Breakdown
-
+### The Details:
 This is a mobile game written for a variety of different devices using a variety of different frameworks.
 
 The breakdown of this repo is such:
@@ -28,3 +27,9 @@ Appcelerator Titanium Source Code for iOS, Android and MobileWeb.
 __PhoneGap__ 
 
 PhoneGap Source Code for iOS.
+
+### Contributing:
+If you care to contribute at all then please see the [CONTRIBUTING File](https://github.com/fusion94/Legendary/blob/master/CONTRIBUTING.md) for more details.
+
+### License:
+This application is licensed under the Mozilla Public License Version 2.0. Please see the [LICENSE File](https://github.com/fusion94/Legendary/blob/master/LICENSE) for more details.
