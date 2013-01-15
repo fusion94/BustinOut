@@ -1,9 +1,10 @@
-/* 
-	This Source Code Form is subject to the terms of the Mozilla Public
-	License, v. 2.0. If a copy of the MPL was not distributed with this
- 	file, You can obtain one at http://mozilla.org/MPL/2.0/. 
- 
-*/
+/*
+ * BustinOut version 1.0
+ * https://github.com/fusion94/BustinOut
+ *
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
+ */
 
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
 Titanium.UI.setBackgroundColor('#000');
