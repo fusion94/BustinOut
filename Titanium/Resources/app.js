@@ -115,12 +115,11 @@ lblScore = Titanium.UI.createLabel({
 });
 win1.add(lblScore);
 
- 
  //now instantiate the paddle
  paddle = Titanium.UI.createView({
     width: 50,
     height: 2,
-    top: 440,
+    top: 429,
     left: 145,
     backgroundColor: '#fff'
  });
@@ -130,7 +129,7 @@ win1.add(lblScore);
  
  //and now instantiate the ball
  ball = Titanium.UI.createView({
-    top: 429,
+    top: 419,
     left: 160,
     width: 10,
     height: 10,
@@ -209,7 +208,7 @@ function gameLoop()
     
     
     //then we check if the rectangle is intersecting between paddle and ball
-    if(ball.top + ball.height > 439)
+    if(ball.top + ball.height > 420)
     {
         if(rectIntersects(paddle, ball) == true)
         {
@@ -242,6 +241,8 @@ function gameLoop()
           else {
             yVelocity = -yVelocity;
           }
+          // exit loop
+          break;
         }
       }
      }
@@ -264,10 +265,12 @@ function gameLoop()
 function playGame()
 {
    //set the flag to say we're now playing the game
-   isPlaying = true;
+   isPlaying = true; 
    
    //initially the ball will travel up from the paddle
-   yVelocity = -yVelocity;
+   if(yVelocity > 0) {
+   	yVelocity = -yVelocity;
+   }
    
    //now start the loop, 60 fps is enough for this game
    intervalHandle = setInterval(gameLoop, 17); //1000ms/60 = 16.666
